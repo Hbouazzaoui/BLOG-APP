@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Article",
+      "content": "This is the content of the first article.",
+      "category": "Tech",
+      "image": "https://example.com/image.jpg",
+      "createdAt": "2025-04-21"
+    }
+  ],
+  "comments": [],
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@example.com",
+      "password": "admin123",
+      "role": "admin"
+    }
+  ]
+}
